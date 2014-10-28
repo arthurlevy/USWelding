@@ -1,0 +1,1 @@
+These are the files used in the publication: Levy, A., Le Corre, S., & Fernandez Villegas, I. (2014). Modeling of the heating phenomena in ultrasonic welding of thermoplastic composites with flat energy directors. Journal of Materials Processing Technology, 214, 1361–1371.
